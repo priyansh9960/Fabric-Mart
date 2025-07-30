@@ -22,7 +22,9 @@ const products = [
     'cushion-covers',
     'ipl-jersey',
     'over-Ley',
-    'dreps'
+    'drapes',
+    'Sofa-covers',
+    'Droping'
 ];
 
 products.forEach(product => {

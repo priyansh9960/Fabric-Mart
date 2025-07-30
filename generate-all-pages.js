@@ -103,8 +103,17 @@ const config = {
             icon: 'fa-sofa',
             folder: 'sofa-covers',
             visible: true
+        },
+        
+       {
+            id: 'Droping',
+            name: 'Droping',
+            description: 'Elegant Dropings',
+            icon: 'fa-Droping',
+            folder: 'Droping',
+            visible: true
         }
-    ]
+    ]        
 };
 
 // Create directories if they don't exist
